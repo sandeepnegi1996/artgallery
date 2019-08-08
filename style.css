@@ -4,5 +4,18 @@
     box-sizing: border-box;
 }
 body{
-    background: lightskyblue;
+    background:  #EAE8DC;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+    color: #E85A50;
+}
+/* #EAE8DC
+background color from arm chair
+
+font-color: #E98074 or  #E85A50
+
+
+*/
+.navbar{
+    border: 1px solid #E98074;
 }
